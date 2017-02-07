@@ -63,7 +63,9 @@ You'll get an `index.html` and an `app.js` file inside `build`.
 ## To Do
 * Add Redux
 * Add Hammer
+* Add Jest for testing
 * Look into react-tap-event-plugin
+* Update to Webpack 2
 
 ## License
 MIT.
