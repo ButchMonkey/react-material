@@ -60,11 +60,17 @@ You'll get an `index.html` and an `app.js` file inside `build`.
 
 `index.html` will automatically inject `app.js` and the title of the app.
 
+#### Building for production
+
+```
+npm run build:dist
+```
+You'll get an `index.prod.html` and an `app.prod.js` file inside `build`.
+
 ## To Do
 * Add Redux
 * Add Hammer
 * Add Jest for testing
-* Look into react-tap-event-plugin
 * Update to Webpack 2
 
 ## License
