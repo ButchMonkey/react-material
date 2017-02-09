@@ -1,6 +1,6 @@
 # React - Material UI - Babel - Webpack
 
-A simple React boilerplate with [Material UI](http://www.material-ui.com/) and [MDI React Components](materialdesignicons.com)
+A simple React boilerplate with [Material UI](http://www.material-ui.com/) and [MDI React Components](http://materialdesignicons.com)
 
 ## Usage
 1. `git clone https://github.com/ButchMonkey/react-material.git my-app-name`
